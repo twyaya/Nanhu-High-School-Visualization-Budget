@@ -18,7 +18,7 @@
 
 <img src="https://i.imgur.com/emZgl9j.png"></img>
 
-
+用款方面，教育經費仍然為最大宗，遠超過設備與建築花費。
 
 
 <h3>Feature 特色</h3>
