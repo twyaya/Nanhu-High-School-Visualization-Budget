@@ -7,11 +7,19 @@
 
 <h3>Preview 預覽</h3>
 
+<img src="https://i.imgur.com/P7D5rhV.png"></img>
+
+曾有學校靠著租金收入就能維持營運的傳言，在這裡可以看出學校大都依靠<b>撥款</b>和<b>學雜費收入</b>在營運，無法只仰賴租金收如存活，受贈收入甚至為租金收入2倍多。
+
+
 <img src="https://i.imgur.com/c1D5mau.png"></img>
+
+
 
 <img src="https://i.imgur.com/emZgl9j.png"></img>
 
-<img src="https://i.imgur.com/P7D5rhV.png"></img>
+
+
 
 <h3>Feature 特色</h3>
 
