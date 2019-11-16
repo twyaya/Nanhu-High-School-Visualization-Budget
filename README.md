@@ -1,6 +1,8 @@
 # Nanhu High School Visualization Budget
 南湖高中預算可視化，為關心學校發展同學提供一個更加方便的方式，以關心地方發展為初始構想，融入資訊技能。
 
+試想在沒有Escel的情況下，該如何做出圖表，matplotlib 就是一個不錯的選擇。 
+
 注意:以下作品在Python 3.7.3版本 IPython 7.6.1版本下可完整執行，使用Spyder3編寫。
 
 <h3>Preview 預覽</h3>
@@ -9,12 +11,17 @@
 
 <img src="https://i.imgur.com/emZgl9j.png"></img>
 
+<img src="https://i.imgur.com/P7D5rhV.png"></img>
 
 <h3>Feature 特色</h3>
 
+1.<b>可以有效看出學校的收支出比例</b>
+
+2.<b>使用分色圓餅圖</b>
 
 11/14 南湖高中預算可視化專案開始 處理中文顯示問題
-11/15 
+
+11/15 輸入資料 處理標題 字體大小 顏色
 
  Made by 張皓偉 in 2019
  
