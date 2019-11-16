@@ -5,6 +5,8 @@
 
 <h3>Preview 預覽</h3>
 
+<img src="https://i.imgur.com/c1D5mau.png"></img>
+
 <h3>Feature 特色</h3>
 
 
