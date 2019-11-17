@@ -29,7 +29,7 @@
 
 2.<b>使用分色圓餅圖</b>
 
-參考:<a href="https://blog.techbridge.cc/2018/05/11/python-data-science-and-machine-learning-matplotlib-tutorial/">用 Python 自學資料科學與機器學習入門實戰：Matplotlib 基礎入門</a> <a href="https://ithelp.ithome.com.tw/articles/10196410">[Day20]Matplotlib資料視覺化進階！</a>
+參考:<a href="https://blog.techbridge.cc/2018/05/11/python-data-science-and-machine-learning-matplotlib-tutorial/">用 Python 自學資料科學與機器學習入門實戰：Matplotlib 基礎入門</a> <a href="https://ithelp.ithome.com.tw/articles/10196410">、[Day20]Matplotlib資料視覺化進階！</a>
 
 
 
