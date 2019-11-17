@@ -29,7 +29,7 @@
 
 2.<b>使用分色圓餅圖</b>
 
-參考:<a href="https://blog.techbridge.cc/2018/05/11/python-data-science-and-machine-learning-matplotlib-tutorial/">用 Python 自學資料科學與機器學習入門實戰：Matplotlib 基礎入門</a> <a href="https://ithelp.ithome.com.tw/articles/10196410">、<a>[Day20]Matplotlib資料視覺化進階！</a><a href="https://medium.com/marketingdatascience/%E8%A7%A3%E6%B1%BApython-3-matplotlib%E8%88%87seaborn%E8%A6%96%E8%A6%BA%E5%8C%96%E5%A5%97%E4%BB%B6%E4%B8%AD%E6%96%87%E9%A1%AF%E7%A4%BA%E5%95%8F%E9%A1%8C-f7b3773a889b">解決Python 3 Matplotlib與Seaborn視覺化套件中文顯示問題</a>
+參考:<a href="https://blog.techbridge.cc/2018/05/11/python-data-science-and-machine-learning-matplotlib-tutorial/">用 Python 自學資料科學與機器學習入門實戰：Matplotlib 基礎入門</a>、<a href="https://ithelp.ithome.com.tw/articles/10196410">Day20]Matplotlib資料視覺化進階！</a>、<a href="https://medium.com/marketingdatascience/%E8%A7%A3%E6%B1%BApython-3-matplotlib%E8%88%87seaborn%E8%A6%96%E8%A6%BA%E5%8C%96%E5%A5%97%E4%BB%B6%E4%B8%AD%E6%96%87%E9%A1%AF%E7%A4%BA%E5%95%8F%E9%A1%8C-f7b3773a889b">解決Python 3 Matplotlib與Seaborn視覺化套件中文顯示問題</a>
 
 
 
